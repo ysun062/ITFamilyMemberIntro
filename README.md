@@ -7,13 +7,11 @@ IT伐木里群 - 《群友介绍宝典》
 【坐标】上海
 【关于工作】毕业以来一直在创业，目前是一家C轮公司的CTO，对机器人、云计算、C++、Rust、C#比较熟悉
 【工作之外】喜欢看几乎所有类型的体育赛事，业余比较喜欢露营、DIY
-
 ＝＝＝＝＝＝＝＝＝＝
 【关于Serena】我叫Serena - 苏州人，目前在国内
 【坐标】上海&苏州
 【关于⼯作】 工作背景主要是兼并收购的feasibility study+executive search，现在在executive search firm做partner
 【工作之外】喜爱网球，F1, snowboarding，旅行～ 现在对新科技和meta基建，软硬件，web3等等相关技术领域非常感兴趣
-
 ＝＝＝＝＝＝＝＝＝＝＝
 大家好 我是fanux.中弈，坐标杭州，是 https://github.com/fanux/sealos 的作者和sealer项目发起人，目前在阿里云，欢迎大家关注我的开源项目~ https://github.com/lafjs/laf
 ＝＝＝＝＝＝＝＝＝＝＝
